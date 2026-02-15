@@ -1,4 +1,4 @@
-# Cloud DevOps — Orchestrating Containers and Microservices (Loja Veloz)
+# Cloud DevOps — Orchestrating Containers and Microservices
 
 O projeto simula uma aplicação chamada **Loja Veloz**, dividida em três microsserviços:
 
